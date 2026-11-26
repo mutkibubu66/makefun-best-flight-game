@@ -1,11 +1,11 @@
 # Skyline Ridge — a bush-plane flight game
 
-[![make.fun](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/c/best-flight-game-20261126-0057)
-[![rank](https://make.fun/badge/best-flight-game-20261126-0057/mutkibubu9998/makefun-best-flight-game/rank.svg)](https://make.fun/c/best-flight-game-20261126-0057)
-[![reward](https://make.fun/badge/best-flight-game-20261126-0057/mutkibubu9998/makefun-best-flight-game/reward.svg)](https://make.fun/c/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/mutkibubu66/makefun-best-flight-game/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/mutkibubu66/makefun-best-flight-game/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 **Skyline Ridge** is an original bush-plane flight game for make.fun's
-[Make the best flight game](https://make.fun/c/best-flight-game-20261126-0057)
+[Make the best flight game](https://make.fun/bounty/best-flight-game-20261126-0057)
 competition. Fly the Kestrel out of Ridgefield runway 36, thread the gold rings
 over a patchwork valley and river, dodge hot-air balloons, drop supplies at the
 riverside cabin, watch your fuel and hull — then bring her home and land.
